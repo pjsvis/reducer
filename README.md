@@ -1,2 +1,0 @@
-# reducer
-Created with CodeSandbox
